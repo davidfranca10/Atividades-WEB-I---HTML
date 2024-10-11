@@ -8,3 +8,4 @@ Repositório das atividades (HTML) de Web I
 Lista de atividades:
 - Atividade 1
 - Atividade 2
+- [exercicio HTML](ex2.html)
