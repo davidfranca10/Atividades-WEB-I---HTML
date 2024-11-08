@@ -15,7 +15,7 @@ Este repositório contém 14 atividades práticas para você aprender e praticar
 | Atividade 8 | nav, a                               | [Código HTML](Atividade08.html)   |
 | Atividade 9 | a                                     | [Código HTML](Atividade09.html)   |
 | Atividade 10 | img                                  | [Código HTML](Atividade10.html)   |
-| Atividade 11 | figure, figcaption                   | [Código HTML 11](Atividade11.html)|
+| Atividade 11 | figure, figcaption                   | [Código HTML](Atividade11.html)|
 | Atividade 12 | table, thead, tbody, tfoot, tr, th, td | [Código HTML](Atividade12.html)   |
 | Atividade 13 | form, label, input, textarea, select, option | [Código HTML](Atividade13.html) |
 | Atividade 14 | br, !-- --                           | [Código HTML](Atividade14.html)   |
