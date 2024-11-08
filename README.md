@@ -1,20 +1,21 @@
-# Atividades de HTML
+# <b>Atividades de HTML</b>
 
 Este repositório contém 14 atividades práticas para você aprender e praticar HTML. Cada atividade aborda um elemento específico da linguagem HTML. Clique nos links abaixo para acessar cada atividade.
 
-## Questões
-
-1. [Atividade 1:](#atividade01)
-2. [Atividade 2:](#atividade02)
-3. [Atividade 3:](#atividade03)
-4. [Atividade 4:](#atividade04)
-5. [Atividade 5:](#atividade05)
-6. [Atividade 6:](#atividade06)
-7. [Atividade 7:](#atividade07)
-8. [Atividade 8:](#atividade08)
-9. [Atividade 9:](#atividade09)
-10. [Atividade 10](atividade10)
-11. [Atividade 11:](#atividade11)
-12. [Atividade 12:](#atividade12)
-13. [Atividade 13:](#atividade13)
-14. [Atividade 14:](#atividade14)
+#
+| Atividade  | < Tags >                              | Link Destinatário                 |
+|------------|---------------------------------------|-----------------------------------|
+| Atividade 1 | html, head, body, footer             | [Código HTML](Atividade01.html)   |
+| Atividade 2 | main, section, aside                 | [Código HTML](Atividade02.html)   |
+| Atividade 3 | h1, ..., h6                          | [Código HTML](Atividade03.html)   |
+| Atividade 4 | p, b, i                              | [Código HTML](Atividade04.html)   |
+| Atividade 5 | ol, li                                | [Código HTML](Atividade05.html)   |
+| Atividade 6 | ol, li                                | [Código HTML](Atividade06.html)   |
+| Atividade 7 | ul, li                                | [Código HTML](Atividade07.html)   |
+| Atividade 8 | nav, a                               | [Código HTML](Atividade08.html)   |
+| Atividade 9 | a                                     | [Código HTML](Atividade09.html)   |
+| Atividade 10 | img                                  | [Código HTML](Atividade10.html)   |
+| Atividade 11 | figure, figcaption                   | [Código HTML 11](Atividade11.html)|
+| Atividade 12 | table, thead, tbody, tfoot, tr, th, td | [Código HTML](Atividade12.html)   |
+| Atividade 13 | form, label, input, textarea, select, option | [Código HTML](Atividade13.html) |
+| Atividade 14 | br, !-- --                           | [Código HTML](Atividade14.html)   |
